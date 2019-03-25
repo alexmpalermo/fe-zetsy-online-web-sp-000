@@ -47,10 +47,11 @@ body {
 	padding: 0 45px 20px;
 }
 
-#featured img {
+#featured {
   border: 5px rgb(152, 173, 166) solid;
 }
 
 #press {
-  
+  border: 5px #ccc solid;
+  padding: 1px;
 }
