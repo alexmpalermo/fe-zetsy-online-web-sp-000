@@ -1,7 +1,7 @@
 /*////////////// Fonts //////////////*/
 h1 {
     color: rgb(152, 173, 166);
-    font-size: 80px;
+    font-size: 5em;
     font-weight: bold;
     font-family: 'Baskerville', serif;
     src: url('https://s3.amazonaws.com/learn-verified/Baskerville.ttc');
