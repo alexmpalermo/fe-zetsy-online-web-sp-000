@@ -5,6 +5,7 @@ h1 {
   font-family: 'Baskerville', serif;
   src: url('https://s3.amazonaws.com/learn-verified/Baskerville.ttc');
   font-size: 80px;
+  font-weight: 400px;
 } 
 
 /* link the web font used for the level 1 heading here */
