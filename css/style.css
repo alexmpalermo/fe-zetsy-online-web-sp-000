@@ -28,7 +28,10 @@ p {
     font-size: 0.8em;
 }
 
-
+footer {
+  display: block;
+  text-align: right;
+}
 
 /*////////// Global Styles //////////*/
 
