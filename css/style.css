@@ -49,3 +49,7 @@ body {
 img {
   border: 5px rgb(152, 173, 166) solid;
 }
+
+footer {
+  text-align: right;
+}
