@@ -28,10 +28,7 @@ p {
     font-size: 0.8em;
 }
 
-footer {
-  display: block;
-  text-align: right;
-}
+
 
 /*////////// Global Styles //////////*/
 
@@ -52,4 +49,5 @@ body {
 #featured img {
   border: 5px rgb(152, 173, 166) solid;
 }
+
 
