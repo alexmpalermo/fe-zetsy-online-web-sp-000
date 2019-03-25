@@ -26,6 +26,7 @@ p {
 
 .small {
     font-size: 0.8em;
+    text-align: right;
 }
 
 
@@ -50,7 +51,3 @@ body {
   border: 5px rgb(152, 173, 166) solid;
 }
 
-footer {
-  clear: both;
-  float: right;
-}
