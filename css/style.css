@@ -5,6 +5,7 @@ h1 {
     font-weight: 400px;
     font-family: 'Baskerville', serif;
     src: url('https://s3.amazonaws.com/learn-verified/Baskerville.ttc');
+    text-size-adjust: 100%;
 }
 
 h2 {
