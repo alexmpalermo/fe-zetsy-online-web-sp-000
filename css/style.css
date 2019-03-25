@@ -8,18 +8,7 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
-h1 {
-    display: block;
-    color: rgb(152, 173, 166);
-    font-size: 5em;
-    height: 92px;
-    font-weight: normal;
-    font-family: 'Baskerville', serif;
-    src: url('https://s3.amazonaws.com/learn-verified/Baskerville.ttc');
-    padding-bottom: 10px;
-    margin: 0 0 5px;
-    border-bottom: 1px solid #ccc;
-}
+
 
 h2 {
   color: rgb(111, 127, 122);
